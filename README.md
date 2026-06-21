@@ -74,8 +74,6 @@ Product-Portfolio-Performance-Analysis
 
 ---
 
-## Executive Dashboard
-
 ## Interactive Dashboard
 
 This project includes an interactive dashboard built in Google Sheets.
