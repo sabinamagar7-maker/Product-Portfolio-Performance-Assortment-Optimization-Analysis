@@ -60,14 +60,14 @@ Product-Portfolio-Performance-Analysis
 │   └── category_management_analysis.ipynb
 │
 ├── dashboard_screenshots
-│   ├── executive_dashboard.png
-│   ├── category_analysis.png
-│   ├── product_analysis.png
-│   ├── portfolio_matrix.png
-│   ├── pricing_analysis.png
-│   ├── promotion_analysis.png
-│   ├── seasonality_analysis.png
-│   └── consumer_behaviour_analysis.png
+│   ├── executive_dashboard.pdf
+│   ├── category_analysis.pdf
+│   ├── product_analysis.pdf
+│   ├── portfolio_matrix.pdf
+│   ├── pricing_analysis.pdf
+│   ├── promotion_analysis.pdf
+│   ├── seasonality_analysis.pdf
+│   └── consumer_behaviour_analysis.pdf
 │
 └── README.md
 ```
@@ -123,7 +123,6 @@ While the underlying data comes from restaurant operations, each menu item is tr
 * Pricing analysis
 * Promotion effectiveness measurement
 * Consumer behavior analysis
-* Commercial recommendation development
 
 The objective is to demonstrate how analytical techniques used in Category Management can be applied to support assortment and portfolio decisions.
 
