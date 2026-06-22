@@ -78,7 +78,7 @@ Product-Portfolio-Performance-Analysis
 
 This project includes an interactive dashboard built in Google Sheets.
 
-**View Dashboard:** [Google Sheets Analysis & Dashboard](https://docs.google.com/spreadsheets/d/1JUMQupT7qqTVRgpUAVaei7FdZX-TIqzQw9ThI4_P0x8/edit?usp=sharing)
+**View Dashboard:** [Google Sheets Analysis & Dashboard](ttps://docs.google.com/spreadsheets/d/1JUMQupT7qqTVRgpUAVaei7FdZX-TIqzQw9ThI4_P0x8/edit?gid=448116014#gid=448116014)
 
 Access: View Only
 
@@ -95,7 +95,7 @@ It provides a consolidated view of portfolio performance and allows monthly perf
 * Pricing Insights
 * Product Revenue & Profit Rankings
 
-![Executive Dashboard](https://github.com/sabinamagar7-maker/Product-Portfolio-Performance-Assortment-Optimization-Analysis/blob/main/3_Dashboard_documents/00_Dashboard_Monthly%20Revenue%20and%20Product%20Performance.png)
+![Executive Dashboard](https://github.com/sabinamagar7-maker/Product-Portfolio-Performance-Assortment-Optimization-Analysis/blob/main/3_Dashboard_documents/00_Dashboard_Monthly_Revenue_&_Product%20Performance.png?raw=true)
 
 ---
 
